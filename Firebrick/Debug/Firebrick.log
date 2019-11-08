@@ -1,0 +1,37 @@
+﻿  stdafx.cpp
+  Wall.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\wall.cpp(48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Vampire.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\vampire.cpp(50): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Trample.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\trample.cpp(57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Sword.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\sword.cpp(39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Spell.cpp
+  Player.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\player.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\player.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\player.cpp(48): warning C4018: '<': signed/unsigned mismatch
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\player.cpp(61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\player.cpp(103): warning C4018: '<': signed/unsigned mismatch
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\player.cpp(262): warning C4018: '<': signed/unsigned mismatch
+  Minion.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\minion.cpp(97): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Lightning.cpp
+  Leech.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\leech.cpp(51): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Horde.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\horde.cpp(51): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Game.cpp
+  Firebrick.cpp
+  Fireball.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\fireball.cpp(50): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Card.cpp
+  Bless.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\bless.cpp(46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\bless.cpp(63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Armour.cpp
+d:\recovered data\documents\uni\year 2\advanced programming with c++\firebrick\firebrick\armour.cpp(40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  Firebrick.vcxproj -> D:\Recovered Data\Documents\Uni\Year 2\Advanced Programming with C++\Firebrick\Debug\Firebrick.exe
+  Firebrick.vcxproj -> D:\Recovered Data\Documents\Uni\Year 2\Advanced Programming with C++\Firebrick\Debug\Firebrick.pdb (Full PDB)
